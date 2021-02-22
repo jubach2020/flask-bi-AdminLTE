@@ -1,0 +1,707 @@
+Date,Region,Product Category,Product,Customer Name,Sales,Cost,Profit (Sales)
+"Jan 01, 2004 00:00:00 AM",East,Grocery,Meat,Rozario Diego,$2302.42,$1067.59,$1234.83
+"Jan 02, 2004 00:00:00 AM",East,Grocery,Cakes,Lazar Mathew,$898.31,$271.39,$626.92
+"Jan 06, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Pete Zachriah,$6789.43,$2744.49,$4044.94
+"Jan 07, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Steffi Graf,$3221.68,$1072.81,$2148.87
+"Jan 07, 2004 00:00:00 AM",West,Grocery,Meat,Harold Pawlan,$574.22,$239.64,$334.58
+"Jan 07, 2004 00:00:00 AM",East,Stationary,Art Supplies,David Love,$118.66,$21.52,$97.14
+"Jan 12, 2004 00:00:00 AM",West,Grocery,Bread,Roger Terrence,$12502.07,$6562.17,$5939.9
+"Jan 13, 2004 00:00:00 AM",Central,Grocery,Beverages,Thomas Mondrake,$558.05,$176.56,$381.49
+"Jan 14, 2004 00:00:00 AM",East,Furniture,Meeting Room Tables,Santa Cruz Clara,$7879.88,$2324.29,$5555.59
+"Jan 15, 2004 00:00:00 AM",West,Furniture,Meeting Room Tables,Augustine Paul,$8306.2,$817.64,$7488.56
+"Jan 15, 2004 00:00:00 AM",East,Furniture,Frames,Munaf Patel,$141.06,$59.23,$81.83
+"Jan 19, 2004 00:00:00 AM",East,Stationary,Business Envelopes,Tina Thomas,$923.93,$548.37,$375.56
+"Jan 20, 2004 00:00:00 AM",East,Furniture,Office Chairs,Santa Cruz Clara,$310.39,$100.89,$209.5
+"Jan 21, 2004 00:00:00 AM",East,Grocery,Cereals,Steffi Graf,$678.39,$356.3,$322.09
+"Jan 23, 2004 00:00:00 AM",East,Grocery,Spices,Tina Thomas,$1126.87,$601.38,$525.49
+"Jan 26, 2004 00:00:00 AM",East,Furniture,Clocks,Michael Moore,$700.43,$217.82,$482.61
+"Jan 28, 2004 00:00:00 AM",West,Stationary,Copy Paper,Steven Gerrard,$78.71,$1.38,$77.33
+"Jan 29, 2004 00:00:00 AM",West,Stationary,Surge Protectors,Mary Elizabeth,$228.6,$57.21,$171.39
+"Feb 02, 2004 00:00:00 AM",East,Stationary,Pencils,Tina Thomas,$31.39,$1.35,$30.04
+"Feb 03, 2004 00:00:00 AM",East,Stationary,Standard Labels,Joseph Cairn,$23.12,$9.8,$13.32
+"Feb 06, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Vincent Herbert,$4656.7,$1718.45,$2938.25
+"Feb 08, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Michael Nathan,$1055.11,$64.48,$990.63
+"Feb 12, 2004 00:00:00 AM",East,Grocery,Cereals,Mathew Reese,$297.34,$134.94,$162.4
+"Feb 14, 2004 00:00:00 AM",West,Stationary,Computer Paper,Lela Donovan,$50.74,$25.73,$25.01
+"Feb 14, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Andy Roddick,$2561.05,$703.61,$1857.44
+"Feb 15, 2004 00:00:00 AM",West,Grocery,Bread,John Britto,$19634.64,$9265.15,$10369.49
+"Feb 15, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Augustine Paul,$2689.45,$1011.67,$1677.78
+"Feb 17, 2004 00:00:00 AM",East,Stationary,Air Purifiers,Lazar Mathew,$179.06,$44.42,$134.64
+"Feb 20, 2004 00:00:00 AM",East,Stationary,Art Supplies,Rozario Diego,$26.12,$4.64,$21.48
+"Feb 21, 2004 00:00:00 AM",West,Stationary,Copy Paper,Peter Brian,$254.13,$25.95,$228.18
+"Feb 21, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steven Gerrard,$238.94,$85.91,$153.03
+"Feb 24, 2004 00:00:00 AM",Central,Stationary,Paper Clips,Jency Johnah,$53.37,$0.97,$52.4
+"Feb 25, 2004 00:00:00 AM",Central,Stationary,File Labels,Mary Zewe,$105.87,$42.12,$63.75
+"Feb 25, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Dean Jones,$1728.58,$564.7,$1163.88
+"Feb 26, 2004 00:00:00 AM",Central,Grocery,Meat,Patrick O'Brill,$2686.55,$1161.81,$1524.74
+"Feb 28, 2004 00:00:00 AM",East,Stationary,Computer Paper,Santa Cruz Clara,$137.43,$56.69,$80.74
+"Mar 01, 2004 00:00:00 AM",East,Stationary,Art Supplies,Hallie Redmond,$40.37,$5.36,$35.01
+"Mar 01, 2004 00:00:00 AM",West,Stationary,Standard Labels,Catherine Jordan,$299.34,$171.51,$127.83
+"Mar 03, 2004 00:00:00 AM",East,Stationary,Copy Paper,David Boon,$780.7,$304.62,$476.08
+"Mar 04, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Lance Willis,$881.36,$318.64,$562.72
+"Mar 04, 2004 00:00:00 AM",Central,Stationary,Art Supplies,Shui Tom,$50.16,$9.88,$40.28
+"Mar 04, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Augustine Paul,$3162.42,$1201.3,$1961.12
+"Mar 06, 2004 00:00:00 AM",East,Stationary,Computer Paper,Maxwell Schwartz,$1057.52,$446.81,$610.71
+"Mar 07, 2004 00:00:00 AM",Central,Stationary,Pencils,Andy Flower,$364.05,$30.27,$333.78
+"Mar 09, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Benjamin Ross,$3726.3,$1235.66,$2490.64
+"Mar 15, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Roger Terrence,$1301.65,$336.82,$964.83
+"Mar 16, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Maurice Satty,$5372.47,$1971.63,$3400.84
+"Mar 17, 2004 00:00:00 AM",East,Stationary,Art Supplies,Thomas Mondrake,$124.46,$22.26,$102.2
+"Mar 19, 2004 00:00:00 AM",Central,Stationary,Computer Paper,Thomas Mondrake,$395.72,$77.49,$318.23
+"Mar 21, 2004 00:00:00 AM",West,Stationary,Binding Machines,Helen Magadalene,$141.6,$55.55,$86.05
+"Mar 22, 2004 00:00:00 AM",West,Furniture,Clocks,Helen Magadalene,$748.23,$104.46,$643.77
+"Mar 23, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Lela Donovan,$811.0,$82.8,$728.2
+"Mar 23, 2004 00:00:00 AM",East,Furniture,Frames,Maxwell Schwartz,$398.29,$7.45,$390.84
+"Mar 24, 2004 00:00:00 AM",East,Stationary,File Labels,Patrick O'Brill,$97.79,$39.35,$58.44
+"Mar 25, 2004 00:00:00 AM",East,Stationary,Surge Protectors,Steve Harminson,$469.22,$109.3,$359.92
+"Mar 28, 2004 00:00:00 AM",West,Stationary,Computer Paper,Joseph Cairn,$5628.42,$2741.7,$2886.72
+"Mar 29, 2004 00:00:00 AM",West,Stationary,Surge Protectors,Sheri Gordon,$179.26,$12.34,$166.92
+"Mar 29, 2004 00:00:00 AM",East,Stationary,Art Supplies,Immaculate Anita,$122.2,$27.38,$94.82
+"Mar 29, 2004 00:00:00 AM",Central,Stationary,Computer Paper,William Brown,$1269.38,$603.32,$666.06
+"Mar 31, 2004 00:00:00 AM",West,Stationary,Binder Clips,Joseph Aaron,$82.83,$39.15,$43.68
+"Apr 01, 2004 00:00:00 AM",Central,Grocery,Baby Food,Mike Ballack,$680.75,$154.24,$526.51
+"Apr 02, 2004 00:00:00 AM",West,Stationary,Paper Clips,Rhino Augustus,$206.75,$90.79,$115.96
+"Apr 06, 2004 00:00:00 AM",East,Grocery,Meat,Steven Gerrard,$4654.7,$2221.74,$2432.96
+"Apr 06, 2004 00:00:00 AM",West,Stationary,Standard Labels,Rhino Augustus,$29.43,$14.21,$15.22
+"Apr 08, 2004 00:00:00 AM",West,Grocery,Meat,Jency Johnah,$2869.27,$1260.25,$1609.02
+"Apr 09, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,David Flashing,$1957.12,$564.7,$1392.42
+"Apr 10, 2004 00:00:00 AM",West,Furniture,Office Chairs,Tina Thomas,$8272.75,$2576.73,$5696.02
+"Apr 12, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Hallie Redmond,$3632.14,$1252.7,$2379.44
+"Apr 13, 2004 00:00:00 AM",West,Stationary,Portable Storage,Leena Mary,$1024.93,$234.55,$790.38
+"Apr 21, 2004 00:00:00 AM",Central,Stationary,Round Ring Binders,Dean Jones,$103.19,$31.89,$71.3
+"Apr 23, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Maurice Satty,$22.08,$2.16,$19.92
+"Apr 25, 2004 00:00:00 AM",West,Stationary,Copy Paper,Shui Tom,$1149.79,$367.91,$781.88
+"Apr 27, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Joseph Cairn,$189.61,$64.8,$124.81
+"Apr 30, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Hallie Redmond,$3700.82,$1295.72,$2405.1
+"May 02, 2004 00:00:00 AM",East,Stationary,Art Supplies,Thomas Mondrake,$8.57,$1.57,$7.0
+"May 07, 2004 00:00:00 AM",West,Stationary,Copy Paper,Jency Johnah,$1344.94,$49.66,$1295.28
+"May 09, 2004 00:00:00 AM",East,Stationary,Binder Clips,Santa Cruz Clara,$126.66,$48.32,$78.34
+"May 10, 2004 00:00:00 AM",East,Stationary,Computer Paper,Hallie Redmond,$1423.66,$738.46,$685.2
+"May 11, 2004 00:00:00 AM",West,Stationary,Heavy Duty Binders,David Boon,$217.04,$119.93,$97.11
+"May 13, 2004 00:00:00 AM",East,Stationary,Art Supplies,Wu Chang,$3.44,$1.04,$2.4
+"May 15, 2004 00:00:00 AM",West,Stationary,Art Supplies,Jency Johnah,$140.69,$4.08,$136.61
+"May 16, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Mike Ballack,$4222.09,$1633.48,$2588.61
+"May 17, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Helen Magadalene,$5092.07,$2035.47,$3056.6
+"May 17, 2004 00:00:00 AM",East,Stationary,Binding Supplies,Steve Waugh,$965.18,$315.12,$650.06
+"May 17, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Vincent Herbert,$491.09,$192.7,$298.39
+"May 24, 2004 00:00:00 AM",East,Furniture,Clocks,Pete Zachriah,$568.19,$213.33,$354.86
+"May 25, 2004 00:00:00 AM",East,Grocery,Beverages,Vincent Herbert,$385.81,$35.39,$350.42
+"May 26, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Vincent Herbert,$1300.17,$808.54,$491.63
+"May 30, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,William Brown,$2818.51,$972.77,$1845.74
+"May 31, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Nathan Astle,$8993.0,$3212.0,$5781.0
+"Jun 01, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Mary Elizabeth,$530.34,$23.29,$507.05
+"Jun 02, 2004 00:00:00 AM",East,Stationary,Writings Pads,Grace Kelly,$6.97,$3.07,$3.9
+"Jun 04, 2004 00:00:00 AM",West,Stationary,Art Supplies,Mike Ballack,$13.29,$5.88,$7.41
+"Jun 05, 2004 00:00:00 AM",Central,Furniture,Frames,Jason Gross,$339.63,$90.78,$248.85
+"Jun 06, 2004 00:00:00 AM",East,Stationary,Binding Supplies,Peter McVee,$830.33,$167.09,$663.24
+"Jun 09, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steve Harminson,$5036.45,$2086.04,$2950.41
+"Jun 10, 2004 00:00:00 AM",Central,Stationary,Heavy Duty Binders,Steve Harminson,$220.84,$78.12,$142.72
+"Jun 14, 2004 00:00:00 AM",Central,Stationary,Cardboard Storage,Rozario Diego,$8037.65,$2708.91,$5328.74
+"Jun 18, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Jason Gross,$381.37,$223.76,$157.61
+"Jun 18, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Paul Adams,$723.43,$279.05,$444.38
+"Jun 20, 2004 00:00:00 AM",East,Stationary,Rubber Bands,Catherine Rose,$12.21,$0.08,$12.13
+"Jun 21, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Thomas Mondrake,$875.26,$17.18,$858.08
+"Jun 22, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Joseph Cairn,$3564.84,$1335.19,$2229.65
+"Jun 23, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Richard Agassi,$3073.06,$838.2,$2234.86
+"Jun 25, 2004 00:00:00 AM",Central,Stationary,Art Supplies,Lela Donovan,$59.34,$2.03,$57.31
+"Jun 25, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Hilary Holden,$10815.05,$4784.33,$6030.72
+"Jun 27, 2004 00:00:00 AM",East,Grocery,Bread,Michael Moore,$9256.33,$4071.59,$5184.74
+"Jun 30, 2004 00:00:00 AM",East,Stationary,File Labels,Mary Elizabeth,$362.11,$193.43,$168.68
+"Jul 02, 2004 00:00:00 AM",East,Grocery,Beverages,Mike Ballack,$4056.49,$2129.71,$1926.78
+"Jul 03, 2004 00:00:00 AM",Central,Stationary,Business Envelopes,Dean Jones,$72.28,$26.15,$46.13
+"Jul 04, 2004 00:00:00 AM",East,Stationary,Copy Paper,David Love,$20.93,$13.26,$7.67
+"Jul 05, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Jason Gross,$1540.24,$592.28,$947.96
+"Jul 08, 2004 00:00:00 AM",West,Stationary,Computer Paper,Steffi Graf,$831.4,$419.07,$412.33
+"Jul 09, 2004 00:00:00 AM",East,Stationary,Art Supplies,Benjamin Ross,$26.33,$3.2,$23.13
+"Jul 12, 2004 00:00:00 AM",Central,Stationary,Air Purifiers,Neil Seth,$728.38,$206.65,$521.73
+"Jul 13, 2004 00:00:00 AM",West,Stationary,Paper Clips,Benjamin Ross,$97.72,$22.86,$74.86
+"Jul 13, 2004 00:00:00 AM",East,Stationary,Art Supplies,Jency Johnah,$57.02,$16.54,$40.48
+"Jul 15, 2004 00:00:00 AM",East,Stationary,Paper Clips,Venu Karthik,$125.47,$44.74,$80.73
+"Jul 18, 2004 00:00:00 AM",East,Stationary,Air Purifiers,Augustine Paul,$257.5,$72.37,$185.13
+"Jul 20, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Pete Zachriah,$282.39,$88.4,$193.99
+"Jul 23, 2004 00:00:00 AM",East,Grocery,Meat,Ian Fleming,$1131.9,$72.86,$1059.04
+"Jul 26, 2004 00:00:00 AM",West,Stationary,Computer Paper,Susan Juliet,$386.43,$172.68,$213.75
+"Jul 27, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Steven Roelle,$76.28,$28.36,$47.92
+"Jul 27, 2004 00:00:00 AM",East,Grocery,Meat,John Britto,$1896.28,$856.42,$1039.86
+"Jul 29, 2004 00:00:00 AM",East,Grocery,Cereals,Olvera Toch,$315.9,$120.89,$195.01
+"Jul 30, 2004 00:00:00 AM",East,Stationary,Portable Storage,Steven Gerrard,$65.98,$15.07,$50.91
+"Jul 30, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Joseph Aaron,$4010.35,$1098.95,$2911.4
+"Aug 03, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Peter McVee,$583.19,$248.86,$334.33
+"Aug 04, 2004 00:00:00 AM",East,Stationary,Standard Labels,Immaculate Anita,$129.74,$61.92,$67.82
+"Aug 05, 2004 00:00:00 AM",Central,Furniture,Meeting Room Tables,Hallie Redmond,$238.29,$6.24,$232.05
+"Aug 05, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,John Britto,$2367.06,$102.31,$2264.75
+"Aug 07, 2004 00:00:00 AM",East,Stationary,Art Supplies,Joseph Aaron,$60.93,$4.23,$56.7
+"Aug 07, 2004 00:00:00 AM",Central,Stationary,Round Ring Binders,Rozario Diego,$56.87,$24.46,$32.41
+"Aug 09, 2004 00:00:00 AM",West,Grocery,Meat,Catherine Rose,$1482.06,$176.49,$1305.57
+"Aug 10, 2004 00:00:00 AM",East,Grocery,Biscuits,Jason Gross,$3640.08,$779.93,$2860.15
+"Aug 11, 2004 00:00:00 AM",Central,Grocery,Meat,Jim Courier,$1976.0,$339.64,$1636.36
+"Aug 12, 2004 00:00:00 AM",West,Stationary,Standard Labels,Lazar Mathew,$121.81,$61.87,$59.94
+"Aug 16, 2004 00:00:00 AM",East,Grocery,Meat,Augustine Paul,$362.44,$0.33,$362.11
+"Aug 18, 2004 00:00:00 AM",West,Stationary,File Labels,Andy Flower,$108.95,$48.23,$60.72
+"Aug 19, 2004 00:00:00 AM",East,Stationary,Paper Clips,Peter Brian,$90.03,$13.25,$76.78
+"Aug 20, 2004 00:00:00 AM",Central,Stationary,Computer Paper,Carl Lewis,$2514.62,$525.84,$1988.78
+"Aug 20, 2004 00:00:00 AM",East,Stationary,File Labels,Steffi Graf,$68.75,$29.28,$39.47
+"Aug 22, 2004 00:00:00 AM",East,Stationary,File Labels,Lazar Mathew,$208.04,$113.67,$94.37
+"Aug 23, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,John Britto,$7707.28,$2724.32,$4982.96
+"Aug 23, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Munaf Patel,$1965.44,$714.55,$1250.89
+"Aug 24, 2004 00:00:00 AM",East,Stationary,Business Envelopes,Maurice Satty,$585.81,$360.47,$225.34
+"Aug 25, 2004 00:00:00 AM",Central,Furniture,Meeting Room Tables,Thomas Mondrake,$9362.54,$1955.08,$7407.46
+"Aug 27, 2004 00:00:00 AM",East,Stationary,Computer Paper,Wu Chang,$2551.08,$1350.47,$1200.61
+"Aug 28, 2004 00:00:00 AM",East,Stationary,Art Supplies,Richard Agassi,$99.66,$3.08,$96.58
+"Aug 28, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Catherine Rose,$8938.57,$3526.02,$5412.55
+"Aug 31, 2004 00:00:00 AM",West,Stationary,File Labels,William Brown,$231.85,$110.61,$121.24
+"Sep 03, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Mathew Reese,$2683.34,$824.24,$1859.1
+"Sep 03, 2004 00:00:00 AM",Central,Stationary,Heavy Duty Binders,Michael Moore,$210.8,$103.93,$106.87
+"Sep 04, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Patrick O'Brill,$3842.67,$1383.98,$2458.69
+"Sep 06, 2004 00:00:00 AM",Central,Stationary,Surge Protectors,Steve Harminson,$84.01,$26.63,$57.38
+"Sep 08, 2004 00:00:00 AM",East,Stationary,Writings Pads,Florence Joy,$58.48,$7.3,$51.18
+"Sep 08, 2004 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Lance Willis,$1887.12,$222.08,$1665.04
+"Sep 10, 2004 00:00:00 AM",East,Furniture,Frames,Pete Zachriah,$405.87,$85.14,$320.73
+"Sep 11, 2004 00:00:00 AM",East,Stationary,Binder Clips,Steven Gerrard,$18.25,$4.92,$13.33
+"Sep 11, 2004 00:00:00 AM",East,Stationary,Computer Paper,Peter McVee,$531.09,$122.78,$408.31
+"Sep 13, 2004 00:00:00 AM",East,Stationary,Portable Storage,Leena Mary,$562.57,$15.51,$547.06
+"Sep 17, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Vincent Herbert,$1265.6,$528.5,$737.1
+"Sep 17, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Mathew Reese,$3916.91,$1231.38,$2685.53
+"Sep 19, 2004 00:00:00 AM",East,Grocery,Cereals,Lazar Mathew,$670.46,$357.68,$312.78
+"Sep 21, 2004 00:00:00 AM",East,Stationary,Computer Paper,Michael Moore,$1680.31,$852.71,$827.6
+"Sep 22, 2004 00:00:00 AM",East,Stationary,Computer Paper,Venu Karthik,$1761.06,$1014.0,$747.06
+"Sep 23, 2004 00:00:00 AM",East,Grocery,Meat,Maurice Satty,$604.95,$108.99,$495.96
+"Sep 24, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Mary Zewe,$9772.53,$3614.5,$6158.03
+"Sep 25, 2004 00:00:00 AM",East,Stationary,Copy Paper,Steven Roelle,$218.67,$67.67,$151.0
+"Sep 26, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Helen Magadalene,$7538.07,$2854.46,$4683.61
+"Sep 28, 2004 00:00:00 AM",Central,Stationary,Art Supplies,Vincent Herbert,$239.82,$39.71,$200.11
+"Sep 28, 2004 00:00:00 AM",West,Furniture,Meeting Room Tables,Leena Mary,$220.76,$49.42,$171.34
+"Sep 30, 2004 00:00:00 AM",East,Stationary,Art Supplies,Susan Juliet,$39.64,$3.82,$35.82
+"Oct 02, 2004 00:00:00 AM",East,Stationary,Heavy Duty Binders,Roger Terrence,$56.72,$13.22,$43.5
+"Oct 04, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,John Britto,$7772.04,$2958.8,$4813.24
+"Oct 09, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Steffi Graf,$165.01,$99.82,$65.19
+"Oct 10, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Mary Zewe,$6607.25,$2390.09,$4217.16
+"Oct 11, 2004 00:00:00 AM",Central,Stationary,Art Supplies,Ian Fleming,$37.85,$0.77,$37.08
+"Oct 13, 2004 00:00:00 AM",East,Stationary,Copy Paper,Michael Angelo,$13.05,$4.07,$8.98
+"Oct 14, 2004 00:00:00 AM",East,Stationary,Business Envelopes,Patrick O'Brill,$2756.66,$1629.98,$1126.68
+"Oct 14, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,David Flashing,$3331.83,$1179.9,$2151.93
+"Oct 17, 2004 00:00:00 AM",East,Grocery,Meat,Lazar Mathew,$1407.86,$154.4,$1253.46
+"Oct 17, 2004 00:00:00 AM",East,Grocery,Biscuits,Ian Fleming,$3584.52,$1161.6,$2422.92
+"Oct 23, 2004 00:00:00 AM",East,Stationary,Art Supplies,Florence Joy,$203.58,$34.52,$169.06
+"Oct 23, 2004 00:00:00 AM",West,Stationary,Computer Paper,Barbara Fisher,$52.55,$27.99,$24.56
+"Oct 24, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steve Harminson,$406.15,$129.71,$276.44
+"Oct 29, 2004 00:00:00 AM",East,Stationary,Computer Paper,David Flashing,$226.55,$63.8,$162.75
+"Oct 30, 2004 00:00:00 AM",East,Stationary,Standard Labels,Thomas Seio,$245.62,$130.9,$114.72
+"Nov 03, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Vincent Herbert,$668.82,$182.98,$485.84
+"Nov 05, 2004 00:00:00 AM",East,Stationary,Binder Clips,Immaculate Anita,$21.97,$7.4,$14.57
+"Nov 05, 2004 00:00:00 AM",West,Stationary,Binding Supplies,Augustine Paul,$432.5,$57.56,$374.94
+"Nov 05, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,David Love,$4643.36,$1548.54,$3094.82
+"Nov 06, 2004 00:00:00 AM",West,Stationary,Pins and Tacks,Helen Magadalene,$6.02,$0.83,$5.19
+"Nov 07, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Michael Nathan,$1943.83,$709.05,$1234.78
+"Nov 07, 2004 00:00:00 AM",Central,Grocery,Biscuits,John Britto,$2967.18,$615.5,$2351.68
+"Nov 09, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Rhino Augustus,$5521.04,$2405.2,$3115.84
+"Nov 10, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Immaculate Anita,$441.39,$216.02,$225.37
+"Nov 11, 2004 00:00:00 AM",Central,Stationary,Copy Paper,Nathan Astle,$19.31,$1.34,$17.97
+"Nov 12, 2004 00:00:00 AM",Central,Furniture,Office Chairs,Catherine Rose,$1787.63,$627.41,$1160.22
+"Nov 13, 2004 00:00:00 AM",East,Grocery,Cereals,Rozario Diego,$736.06,$383.3,$352.76
+"Nov 14, 2004 00:00:00 AM",East,Stationary,Computer Paper,Dean Jones,$325.61,$115.94,$209.67
+"Nov 15, 2004 00:00:00 AM",Central,Stationary,Computer Paper,Joseph Cairn,$754.1,$264.02,$490.08
+"Nov 16, 2004 00:00:00 AM",West,Stationary,File Labels,Roger Terrence,$77.47,$33.2,$44.27
+"Nov 18, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Carl Lewis,$6318.74,$2150.17,$4168.57
+"Nov 19, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Venus Powell,$1519.57,$490.38,$1029.19
+"Nov 21, 2004 00:00:00 AM",East,Stationary,Colored Envelopes,Florence Joy,$206.44,$55.83,$150.61
+"Nov 21, 2004 00:00:00 AM",East,Grocery,Cereals,Harold Pawlan,$613.62,$267.88,$345.74
+"Nov 26, 2004 00:00:00 AM",Central,Stationary,Art Supplies,Pete Zachriah,$334.65,$22.4,$312.25
+"Nov 27, 2004 00:00:00 AM",East,Grocery,Meat,Venu Karthik,$2103.63,$876.85,$1226.78
+"Nov 29, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Helen Magadalene,$8076.9,$2919.97,$5156.93
+"Dec 01, 2004 00:00:00 AM",Central,Stationary,File Labels,Rhino Augustus,$132.23,$60.81,$71.42
+"Dec 02, 2004 00:00:00 AM",East,Furniture,Frames,Michael Nathan,$288.92,$3.64,$285.28
+"Dec 02, 2004 00:00:00 AM",East,Stationary,Computer Paper,Grace Kelly,$833.43,$485.87,$347.56
+"Dec 02, 2004 00:00:00 AM",West,Grocery,Cereals,Augustine Paul,$413.39,$226.04,$187.35
+"Dec 02, 2004 00:00:00 AM",Central,Grocery,Spices,Shui Tom,$11751.55,$6365.29,$5386.26
+"Dec 04, 2004 00:00:00 AM",West,Stationary,Paper Clips,David Flashing,$16.38,$2.66,$13.72
+"Dec 04, 2004 00:00:00 AM",West,Grocery,Fruits and Vegetables,Peter Brian,$908.01,$84.46,$823.55
+"Dec 05, 2004 00:00:00 AM",West,Stationary,Computer Paper,Hilary Holden,$96.85,$30.17,$66.68
+"Dec 05, 2004 00:00:00 AM",West,Furniture,Clocks,Shui Tom,$400.64,$34.86,$365.78
+"Dec 08, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Victor Price,$176.97,$80.4,$96.57
+"Dec 13, 2004 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steve Waugh,$1092.48,$657.71,$434.77
+"Dec 14, 2004 00:00:00 AM",East,Stationary,Colored Envelopes,Hilary Holden,$150.31,$46.64,$103.67
+"Dec 16, 2004 00:00:00 AM",Central,Stationary,Computer Paper,Barbara Fisher,$1233.29,$692.59,$540.7
+"Dec 17, 2004 00:00:00 AM",East,Stationary,File Labels,David Flashing,$127.98,$74.75,$53.23
+"Dec 19, 2004 00:00:00 AM",Central,Stationary,Portable Storage,Rhino Augustus,$923.3,$120.98,$802.32
+"Dec 20, 2004 00:00:00 AM",West,Stationary,Portable Storage,Florence Joy,$509.35,$156.98,$352.37
+"Dec 22, 2004 00:00:00 AM",Central,Furniture,Frames,Maxwell Schwartz,$548.61,$10.73,$537.88
+"Dec 30, 2004 00:00:00 AM",East,Furniture,Meeting Room Tables,Jency Johnah,$9288.95,$633.23,$8655.72
+"Dec 31, 2004 00:00:00 AM",West,Stationary,Standard Labels,Augustine Paul,$378.74,$231.42,$147.32
+"Jan 02, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Jim Courier,$1356.56,$525.35,$831.21
+"Jan 03, 2005 00:00:00 AM",West,Stationary,Standard Labels,Barbara Fisher,$121.15,$64.63,$56.52
+"Jan 04, 2005 00:00:00 AM",East,Stationary,Computer Paper,Grace Kelly,$535.36,$154.3,$381.06
+"Jan 05, 2005 00:00:00 AM",East,Stationary,Art Supplies,Lazar Mathew,$55.82,$20.07,$35.75
+"Jan 06, 2005 00:00:00 AM",West,Furniture,Frames,Leena Mary,$120.53,$24.82,$95.71
+"Jan 06, 2005 00:00:00 AM",East,Stationary,Standard Labels,Mary Zewe,$60.96,$31.65,$29.31
+"Jan 09, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Nathan Astle,$1669.65,$669.57,$1000.08
+"Jan 10, 2005 00:00:00 AM",Central,Stationary,Pencils,Andy Flower,$129.57,$27.16,$102.41
+"Jan 13, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,David Boon,$3795.34,$501.2,$3294.14
+"Jan 14, 2005 00:00:00 AM",East,Stationary,Copy Paper,Joseph Cairn,$372.59,$113.97,$258.62
+"Jan 17, 2005 00:00:00 AM",West,Stationary,Standard Labels,Augustine Paul,$115.81,$51.14,$64.67
+"Jan 19, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Andy Roddick,$4791.55,$1577.02,$3214.53
+"Jan 20, 2005 00:00:00 AM",Central,Stationary,Pencils,Shui Tom,$117.33,$14.91,$102.42
+"Jan 21, 2005 00:00:00 AM",East,Stationary,Standard Labels,Lance Willis,$66.99,$31.49,$35.5
+"Jan 24, 2005 00:00:00 AM",East,Stationary,Computer Paper,Roger Terrence,$794.8,$284.31,$510.49
+"Jan 28, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Nathan Astle,$806.73,$326.43,$480.3
+"Jan 31, 2005 00:00:00 AM",West,Stationary,Heavy Duty Binders,Helen Magadalene,$578.01,$252.83,$325.18
+"Feb 01, 2005 00:00:00 AM",East,Stationary,Copy Paper,Ian Fleming,$11.37,$3.19,$8.18
+"Feb 05, 2005 00:00:00 AM",West,Stationary,Computer Paper,Jason Gross,$1001.17,$373.14,$628.03
+"Feb 07, 2005 00:00:00 AM",East,Furniture,Metal Bookcases,Roger Terrence,$2703.42,$446.41,$2257.01
+"Feb 08, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Venus Powell,$1250.57,$221.83,$1028.74
+"Feb 09, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Lazar Mathew,$1468.15,$537.08,$931.07
+"Feb 11, 2005 00:00:00 AM",East,Stationary,Art Supplies,Steffi Graf,$37.22,$5.5,$31.72
+"Feb 12, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Hallie Redmond,$2638.77,$923.41,$1715.36
+"Feb 13, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Nathan Astle,$200.44,$118.92,$81.52
+"Feb 15, 2005 00:00:00 AM",East,Stationary,Pins and Tacks,Joseph Cairn,$6.14,$5.01,$1.13
+"Feb 15, 2005 00:00:00 AM",West,Stationary,Art Supplies,Maxwell Schwartz,$14.83,$2.39,$12.44
+"Feb 16, 2005 00:00:00 AM",East,Stationary,Art Supplies,John Elliot,$13.53,$4.82,$8.71
+"Feb 17, 2005 00:00:00 AM",Central,Stationary,File Labels,Andy Roddick,$21.99,$9.85,$12.14
+"Feb 18, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Peter Brian,$1963.15,$715.59,$1247.56
+"Feb 19, 2005 00:00:00 AM",East,Stationary,File Labels,Olvera Toch,$137.53,$61.64,$75.89
+"Feb 22, 2005 00:00:00 AM",East,Stationary,Art Supplies,Tina Thomas,$24.89,$6.39,$18.5
+"Feb 25, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Tina Thomas,$9034.72,$3593.75,$5440.97
+"Feb 28, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Steven Gerrard,$1386.92,$589.24,$797.68
+"Mar 05, 2005 00:00:00 AM",Central,Stationary,Art Supplies,Patrick O'Brill,$41.37,$7.7,$33.67
+"Mar 08, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Grace Kelly,$331.23,$138.09,$193.14
+"Mar 10, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steven Roelle,$3612.79,$1295.86,$2316.93
+"Mar 12, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Rozario Diego,$3509.03,$1047.01,$2462.02
+"Mar 13, 2005 00:00:00 AM",Central,Furniture,Office Chairs,Steven Roelle,$696.47,$210.78,$485.69
+"Mar 15, 2005 00:00:00 AM",East,Stationary,Computer Paper,John Britto,$212.74,$109.66,$103.08
+"Mar 15, 2005 00:00:00 AM",West,Stationary,Binding Supplies,Venus Powell,$611.71,$173.16,$438.55
+"Mar 16, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Leena Mary,$1118.45,$476.62,$641.83
+"Mar 19, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Catherine Rose,$1977.77,$1228.05,$749.72
+"Mar 24, 2005 00:00:00 AM",East,Stationary,Binder Clips,Thomas Mondrake,$189.03,$79.82,$109.21
+"Mar 24, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Rick Reed,$360.78,$164.12,$196.66
+"Mar 25, 2005 00:00:00 AM",West,Stationary,Scissors,Rozario Diego,$86.38,$9.35,$77.03
+"Mar 25, 2005 00:00:00 AM",East,Stationary,Standard Labels,Neil Seth,$58.25,$28.11,$30.14
+"Mar 29, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Santa Cruz Clara,$2875.25,$1005.89,$1869.36
+"Mar 29, 2005 00:00:00 AM",Central,Stationary,Specialty Envelopes,John Britto,$3882.65,$1392.25,$2490.4
+"Mar 31, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Pete Zachriah,$3002.46,$972.44,$2030.02
+"Mar 31, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Wu Chang,$2110.32,$555.63,$1554.69
+"Apr 02, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Vincent Herbert,$1682.39,$200.05,$1482.34
+"Apr 04, 2005 00:00:00 AM",East,Furniture,Clocks,John Britto,$272.34,$14.58,$257.76
+"Apr 07, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,David Flashing,$2970.27,$1635.85,$1334.42
+"Apr 09, 2005 00:00:00 AM",East,Stationary,File Labels,Maxwell Schwartz,$190.05,$90.85,$99.2
+"Apr 12, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Lela Donovan,$5342.57,$1929.65,$3412.92
+"Apr 14, 2005 00:00:00 AM",East,Stationary,Art Supplies,Susan Juliet,$45.31,$12.93,$32.38
+"Apr 16, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Carl Lewis,$2974.81,$986.08,$1988.73
+"Apr 18, 2005 00:00:00 AM",East,Stationary,Specialty Envelopes,Pete Zachriah,$455.08,$195.66,$259.42
+"Apr 19, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Andy Roddick,$3928.38,$1386.98,$2541.4
+"Apr 21, 2005 00:00:00 AM",West,Stationary,Copy Paper,Venus Powell,$409.51,$40.92,$368.59
+"Apr 23, 2005 00:00:00 AM",East,Stationary,Computer Paper,Pete Zachriah,$27.69,$9.51,$18.18
+"Apr 24, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Hilary Holden,$955.88,$573.23,$382.65
+"Apr 25, 2005 00:00:00 AM",West,Stationary,Highlighters,Joseph Aaron,$37.48,$0.13,$37.35
+"Apr 25, 2005 00:00:00 AM",East,Stationary,Standard Labels,Patrick O'Brill,$225.84,$99.76,$126.08
+"Apr 26, 2005 00:00:00 AM",West,Stationary,Computer Paper,William Brown,$1816.44,$625.29,$1191.15
+"Apr 27, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Carl Lewis,$2381.21,$635.39,$1745.82
+"Apr 28, 2005 00:00:00 AM",West,Stationary,Copy Paper,Steven Roelle,$517.75,$172.6,$345.15
+"Apr 29, 2005 00:00:00 AM",East,Stationary,Portable Storage,Nathan Astle,$928.16,$258.75,$669.41
+"Apr 30, 2005 00:00:00 AM",West,Stationary,Pencils,Victor Price,$120.72,$5.41,$115.31
+"May 01, 2005 00:00:00 AM",West,Stationary,Round Ring Binders,Helen Magadalene,$235.69,$83.67,$152.02
+"May 04, 2005 00:00:00 AM",West,Stationary,Art Supplies,Hilary Holden,$69.82,$14.31,$55.51
+"May 05, 2005 00:00:00 AM",West,Stationary,Highlighters,Joseph Airdo,$57.07,$0.35,$56.72
+"May 07, 2005 00:00:00 AM",East,Stationary,Copy Paper,Maxwell Schwartz,$120.42,$34.98,$85.44
+"May 08, 2005 00:00:00 AM",West,Grocery,Meat,Susan Juliet,$28.73,$5.87,$22.86
+"May 11, 2005 00:00:00 AM",West,Stationary,Standard Labels,Peter Brian,$229.55,$91.74,$137.81
+"May 12, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Rick Reed,$1697.96,$503.41,$1194.55
+"May 13, 2005 00:00:00 AM",East,Stationary,Art Supplies,Steven Gerrard,$38.86,$9.32,$29.54
+"May 14, 2005 00:00:00 AM",West,Stationary,Computer Paper,Steven Roelle,$976.31,$346.2,$630.11
+"May 18, 2005 00:00:00 AM",West,Stationary,Writings Pads,Mary Elizabeth,$469.85,$254.83,$215.02
+"May 19, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Catherine Jordan,$1868.65,$252.58,$1616.07
+"May 21, 2005 00:00:00 AM",Central,Stationary,Round Ring Binders,Benjamin Ross,$115.91,$43.29,$72.62
+"May 22, 2005 00:00:00 AM",East,Grocery,Meat,Maxwell Schwartz,$164.63,$80.73,$83.9
+"May 23, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Peter Brian,$2866.95,$392.14,$2474.81
+"May 24, 2005 00:00:00 AM",East,Grocery,Cereals,Stephanie Ulpright,$75.92,$26.15,$49.77
+"May 26, 2005 00:00:00 AM",Central,Stationary,Copy Paper,Andy Flower,$15.73,$3.79,$11.94
+"May 26, 2005 00:00:00 AM",East,Furniture,End Tables,Rick Reed,$10552.11,$785.72,$9766.39
+"Jun 03, 2005 00:00:00 AM",West,Grocery,Meat,Tina Thomas,$576.29,$90.0,$486.29
+"Jun 04, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Helen Magadalene,$2021.87,$243.91,$1777.96
+"Jun 07, 2005 00:00:00 AM",Central,Stationary,Computer Paper,Paul Adams,$564.56,$119.03,$445.53
+"Jun 08, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Harold Pawlan,$1685.75,$567.34,$1118.41
+"Jun 08, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Joseph Aaron,$3948.43,$1218.99,$2729.44
+"Jun 12, 2005 00:00:00 AM",West,Stationary,Computer Paper,Steven Gerrard,$871.32,$397.14,$474.18
+"Jun 15, 2005 00:00:00 AM",West,Stationary,Art Supplies,Barbara Fisher,$263.63,$71.96,$191.67
+"Jun 16, 2005 00:00:00 AM",East,Stationary,Computer Paper,Wu Chang,$1991.93,$1049.38,$942.55
+"Jun 17, 2005 00:00:00 AM",Central,Stationary,Storage Cabinets,Tina Thomas,$5452.9,$876.71,$4576.19
+"Jun 21, 2005 00:00:00 AM",Central,Stationary,Round Ring Binders,Rozario Diego,$55.85,$17.63,$38.22
+"Jun 22, 2005 00:00:00 AM",East,Furniture,Frames,Catherine Jordan,$118.82,$55.17,$63.65
+"Jun 24, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Rhino Augustus,$4546.9,$1832.4,$2714.5
+"Jun 25, 2005 00:00:00 AM",West,Stationary,Round Ring Binders,Barbara Fisher,$136.75,$10.41,$126.34
+"Jun 26, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Richard Agassi,$2251.39,$906.48,$1344.91
+"Jun 28, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Olvera Toch,$970.17,$160.06,$810.11
+"Jun 30, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Michael Angelo,$853.88,$298.4,$555.48
+"Jun 30, 2005 00:00:00 AM",East,Furniture,Office Chairs,Steven Gerrard,$905.94,$277.43,$628.51
+"Jul 01, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Peter Brian,$617.37,$269.63,$347.74
+"Jul 02, 2005 00:00:00 AM",West,Stationary,Computer Paper,Paul Adams,$66.76,$31.44,$35.32
+"Jul 04, 2005 00:00:00 AM",West,Stationary,Air Purifiers,William Brown,$1085.4,$314.28,$771.12
+"Jul 05, 2005 00:00:00 AM",East,Stationary,File Labels,Helen Magadalene,$111.45,$49.22,$62.23
+"Jul 08, 2005 00:00:00 AM",West,Stationary,Portable Storage,Benjamin Ross,$2008.54,$641.83,$1366.71
+"Jul 09, 2005 00:00:00 AM",West,Stationary,Storage Cabinets,Rick Reed,$6152.8,$1004.59,$5148.21
+"Jul 11, 2005 00:00:00 AM",East,Stationary,Art Supplies,Helen Magadalene,$526.27,$134.21,$392.06
+"Jul 15, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Paul Adams,$2147.97,$767.07,$1380.9
+"Jul 16, 2005 00:00:00 AM",Central,Stationary,Binder Clips,Barbara Fisher,$172.23,$38.93,$133.3
+"Jul 18, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,David Love,$1907.45,$623.79,$1283.66
+"Jul 19, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Jason Gross,$3144.71,$1033.11,$2111.6
+"Jul 23, 2005 00:00:00 AM",West,Stationary,File Labels,Lazar Mathew,$235.22,$139.97,$95.25
+"Jul 26, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,David Love,$2041.59,$617.31,$1424.28
+"Jul 27, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Pete Zachriah,$4976.75,$1923.65,$3053.1
+"Jul 27, 2005 00:00:00 AM",East,Grocery,Meat,Shui Tom,$453.87,$156.49,$297.38
+"Jul 28, 2005 00:00:00 AM",East,Grocery,Cereals,Steve Waugh,$54.25,$22.03,$32.22
+"Jul 29, 2005 00:00:00 AM",West,Grocery,Fruits and Vegetables,Richard Agassi,$3167.87,$1183.64,$1984.23
+"Jul 29, 2005 00:00:00 AM",West,Grocery,Cereals,Benjamin Ross,$581.84,$240.99,$340.85
+"Jul 30, 2005 00:00:00 AM",East,Stationary,File Labels,Michael Angelo,$110.43,$51.23,$59.2
+"Jul 30, 2005 00:00:00 AM",East,Stationary,Computer Paper,Patrick O'Brill,$981.47,$316.91,$664.56
+"Aug 01, 2005 00:00:00 AM",West,Stationary,Art Supplies,Ian Fleming,$48.96,$8.68,$40.28
+"Aug 02, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Steven Gerrard,$1497.96,$470.25,$1027.71
+"Aug 04, 2005 00:00:00 AM",East,Stationary,Computer Paper,David Flashing,$836.54,$271.49,$565.05
+"Aug 05, 2005 00:00:00 AM",East,Stationary,Art Supplies,Augustine Paul,$80.9,$11.52,$69.38
+"Aug 05, 2005 00:00:00 AM",West,Stationary,Art Supplies,Mary Elizabeth,$45.91,$8.31,$37.6
+"Aug 06, 2005 00:00:00 AM",Central,Stationary,Binder Clips,Benjamin Ross,$54.29,$21.53,$32.76
+"Aug 08, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Munaf Patel,$3403.78,$1254.91,$2148.87
+"Aug 11, 2005 00:00:00 AM",West,Stationary,Pins and Tacks,Carl Lewis,$79.83,$9.03,$70.8
+"Aug 13, 2005 00:00:00 AM",Central,Stationary,Art Supplies,Immaculate Anita,$106.28,$24.16,$82.12
+"Aug 17, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Mathew Reese,$4595.64,$1783.56,$2812.08
+"Aug 18, 2005 00:00:00 AM",West,Stationary,Specialty Envelopes,Immaculate Anita,$1559.68,$724.35,$835.33
+"Aug 19, 2005 00:00:00 AM",East,Stationary,Portable Storage,Santa Cruz Clara,$6430.62,$1731.01,$4699.61
+"Aug 20, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Lazar Mathew,$5798.4,$2207.96,$3590.44
+"Aug 21, 2005 00:00:00 AM",East,Stationary,Art Supplies,Roger Terrence,$105.44,$30.44,$75.0
+"Aug 27, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,John Britto,$2446.44,$205.8,$2240.64
+"Aug 30, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Susan Juliet,$4186.52,$1409.12,$2777.4
+"Sep 03, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Joseph Cairn,$4443.26,$1240.16,$3203.1
+"Sep 05, 2005 00:00:00 AM",East,Stationary,Art Supplies,Immaculate Anita,$140.6,$33.82,$106.78
+"Sep 05, 2005 00:00:00 AM",East,Stationary,Copy Paper,Michael Moore,$11.67,$4.53,$7.14
+"Sep 06, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Stephanie Ulpright,$2542.06,$1427.86,$1114.2
+"Sep 06, 2005 00:00:00 AM",Central,Stationary,Writings Pads,Nathan Astle,$76.52,$23.7,$52.82
+"Sep 10, 2005 00:00:00 AM",Central,Stationary,Round Ring Binders,William Brown,$54.33,$0.6,$53.73
+"Sep 11, 2005 00:00:00 AM",East,Stationary,Computer Paper,Lance Willis,$1750.0,$670.34,$1079.66
+"Sep 12, 2005 00:00:00 AM",East,Stationary,Writings Pads,Maxwell Schwartz,$147.96,$50.23,$97.73
+"Sep 13, 2005 00:00:00 AM",East,Stationary,Standard Labels,Susan Juliet,$75.73,$35.76,$39.97
+"Sep 14, 2005 00:00:00 AM",East,Stationary,Art Supplies,Lance Willis,$7.49,$2.06,$5.43
+"Sep 15, 2005 00:00:00 AM",East,Stationary,Art Supplies,Thomas Seio,$229.77,$43.81,$185.96
+"Sep 16, 2005 00:00:00 AM",West,Stationary,Scissors,Hallie Redmond,$321.95,$42.72,$279.23
+"Sep 17, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Angelus Mathew,$5731.46,$2234.12,$3497.34
+"Sep 22, 2005 00:00:00 AM",West,Stationary,Art Supplies,Rhino Augustus,$65.37,$15.34,$50.03
+"Sep 23, 2005 00:00:00 AM",East,Stationary,Round Ring Binders,Mary Elizabeth,$143.1,$55.19,$87.91
+"Sep 26, 2005 00:00:00 AM",East,Stationary,Computer Paper,David Love,$2354.28,$958.94,$1395.34
+"Oct 01, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Catherine Rose,$8712.3,$3770.4,$4941.9
+"Oct 05, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Lazar Mathew,$4416.45,$1809.23,$2607.22
+"Oct 07, 2005 00:00:00 AM",Central,Stationary,Art Supplies,Hallie Redmond,$154.87,$33.1,$121.77
+"Oct 09, 2005 00:00:00 AM",Central,Stationary,Standard Labels,Jency Johnah,$171.06,$65.5,$105.56
+"Oct 10, 2005 00:00:00 AM",Central,Stationary,Copy Paper,Harold Pawlan,$409.33,$43.67,$365.66
+"Oct 15, 2005 00:00:00 AM",East,Stationary,Computer Paper,Barbara Fisher,$794.32,$149.59,$644.73
+"Oct 17, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Immaculate Anita,$2371.3,$1015.19,$1356.11
+"Oct 17, 2005 00:00:00 AM",East,Furniture,Frames,Immaculate Anita,$662.21,$275.41,$386.8
+"Oct 19, 2005 00:00:00 AM",West,Stationary,Pins and Tacks,Munaf Patel,$33.21,$2.77,$30.44
+"Oct 20, 2005 00:00:00 AM",East,Grocery,Bread,Vincent Herbert,$7370.84,$3410.91,$3959.93
+"Oct 24, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Benjamin Ross,$2132.8,$793.78,$1339.02
+"Oct 24, 2005 00:00:00 AM",Central,Stationary,Art Supplies,Rhino Augustus,$44.42,$0.59,$43.83
+"Oct 26, 2005 00:00:00 AM",West,Furniture,Lighting,Sheri Gordon,$239.3,$55.27,$184.03
+"Oct 27, 2005 00:00:00 AM",East,Stationary,File Labels,Pete Zachriah,$470.74,$258.59,$212.15
+"Oct 28, 2005 00:00:00 AM",Central,Stationary,Art Supplies,Jency Johnah,$61.04,$12.84,$48.2
+"Oct 31, 2005 00:00:00 AM",East,Stationary,Art Supplies,Catherine Rose,$114.39,$38.92,$75.47
+"Oct 31, 2005 00:00:00 AM",Central,Stationary,Writings Pads,Lela Donovan,$422.04,$202.64,$219.4
+"Nov 02, 2005 00:00:00 AM",East,Stationary,Pins and Tacks,Lance Willis,$62.15,$3.33,$58.82
+"Nov 08, 2005 00:00:00 AM",West,Stationary,File Labels,Helen Magadalene,$22.78,$11.46,$11.32
+"Nov 14, 2005 00:00:00 AM",Central,Stationary,Copy Paper,Benjamin Ross,$15.58,$3.91,$11.67
+"Nov 20, 2005 00:00:00 AM",East,Stationary,Standard Labels,Angelus Mathew,$14.31,$6.63,$7.68
+"Nov 23, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Andy Roddick,$2610.46,$1118.33,$1492.13
+"Nov 24, 2005 00:00:00 AM",Central,Stationary,Copy Paper,Andy Flower,$778.26,$217.39,$560.87
+"Nov 27, 2005 00:00:00 AM",East,Stationary,Standard Labels,Paul Adams,$74.94,$31.79,$43.15
+"Nov 29, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Wu Chang,$855.98,$500.39,$355.59
+"Dec 03, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Catherine Rose,$4797.36,$1762.68,$3034.68
+"Dec 04, 2005 00:00:00 AM",East,Stationary,Scissors,Santa Cruz Clara,$638.91,$103.44,$535.47
+"Dec 06, 2005 00:00:00 AM",West,Furniture,Office Chairs,Munaf Patel,$711.44,$87.48,$623.96
+"Dec 09, 2005 00:00:00 AM",East,Stationary,File Labels,Rozario Diego,$61.45,$28.66,$32.79
+"Dec 10, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,Victor Price,$8066.73,$3389.77,$4676.96
+"Dec 13, 2005 00:00:00 AM",East,Grocery,Fruits and Vegetables,William Brown,$1531.9,$470.95,$1060.95
+"Dec 17, 2005 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Lazar Mathew,$3444.83,$2088.17,$1356.66
+"Dec 19, 2005 00:00:00 AM",Central,Stationary,Specialty Envelopes,Augustine Paul,$4287.13,$2031.75,$2255.38
+"Dec 21, 2005 00:00:00 AM",East,Grocery,Cereals,David Love,$222.02,$87.5,$134.52
+"Dec 22, 2005 00:00:00 AM",East,Furniture,Frames,Helen Magadalene,$323.57,$58.98,$264.59
+"Dec 22, 2005 00:00:00 AM",West,Stationary,Scissors,Harold Pawlan,$510.92,$110.57,$400.35
+"Dec 27, 2005 00:00:00 AM",Central,Stationary,Art Supplies,Jim Courier,$24.46,$7.04,$17.42
+"Jan 01, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Rozario Diego,$2564.85,$873.96,$1690.89
+"Jan 03, 2006 00:00:00 AM",Central,Stationary,File Labels,Susan Juliet,$116.62,$46.34,$70.28
+"Jan 06, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Munaf Patel,$3715.5,$1271.18,$2444.32
+"Jan 09, 2006 00:00:00 AM",East,Stationary,Art Supplies,Sheri Gordon,$137.25,$28.17,$109.08
+"Jan 10, 2006 00:00:00 AM",East,Stationary,Standard Labels,Hallie Redmond,$233.9,$129.01,$104.89
+"Jan 11, 2006 00:00:00 AM",West,Stationary,File Labels,Tina Thomas,$130.64,$71.5,$59.14
+"Jan 15, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Venus Powell,$241.47,$21.48,$219.99
+"Jan 15, 2006 00:00:00 AM",East,Stationary,Paper Clips,Munaf Patel,$110.49,$43.88,$66.61
+"Jan 19, 2006 00:00:00 AM",East,Stationary,Business Envelopes,Tina Thomas,$923.93,$548.37,$375.56
+"Jan 20, 2006 00:00:00 AM",West,Grocery,Meat,Florence Joy,$647.68,$261.09,$386.59
+"Jan 26, 2006 00:00:00 AM",East,Furniture,Clocks,Michael Moore,$700.43,$217.82,$482.61
+"Jan 28, 2006 00:00:00 AM",West,Stationary,Copy Paper,Steven Gerrard,$78.71,$1.38,$77.33
+"Feb 02, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Carl Lewis,$7128.04,$2919.74,$4208.3
+"Feb 05, 2006 00:00:00 AM",West,Stationary,Art Supplies,David Flashing,$53.44,$3.85,$49.59
+"Feb 06, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Vincent Herbert,$4656.7,$1718.45,$2938.25
+"Feb 07, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Joseph Cairn,$735.28,$147.86,$587.42
+"Feb 09, 2006 00:00:00 AM",Central,Stationary,File Labels,Peter McVee,$33.99,$15.55,$18.44
+"Feb 12, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,John Britto,$3498.49,$1061.77,$2436.72
+"Feb 14, 2006 00:00:00 AM",West,Furniture,Lighting,Lela Donovan,$208.48,$40.69,$167.79
+"Feb 14, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Thomas Seio,$1845.99,$662.23,$1183.76
+"Feb 14, 2006 00:00:00 AM",West,Stationary,Scissors,Andy Roddick,$271.06,$49.6,$221.46
+"Feb 15, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Hallie Redmond,$611.95,$226.56,$385.39
+"Feb 16, 2006 00:00:00 AM",East,Furniture,Frames,Dean Jones,$165.99,$22.43,$143.56
+"Feb 17, 2006 00:00:00 AM",East,Stationary,Air Purifiers,Lazar Mathew,$179.06,$44.42,$134.64
+"Feb 20, 2006 00:00:00 AM",East,Stationary,Art Supplies,Rozario Diego,$26.12,$4.64,$21.48
+"Feb 20, 2006 00:00:00 AM",East,Furniture,Office Chairs,Mike Ballack,$8999.43,$3313.64,$5685.79
+"Feb 21, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steven Gerrard,$238.94,$85.91,$153.03
+"Feb 26, 2006 00:00:00 AM",East,Stationary,Paper Clips,Catherine Rose,$42.26,$8.57,$33.69
+"Feb 26, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Augustine Paul,$4202.36,$1663.63,$2538.73
+"Mar 02, 2006 00:00:00 AM",West,Grocery,Meat,Carl Lewis,$703.49,$237.6,$465.89
+"Mar 03, 2006 00:00:00 AM",East,Stationary,Copy Paper,David Boon,$780.7,$304.62,$476.08
+"Mar 06, 2006 00:00:00 AM",West,Stationary,Art Supplies,Lela Donovan,$179.11,$13.48,$165.63
+"Mar 07, 2006 00:00:00 AM",Central,Stationary,Computer Paper,Andy Flower,$1863.72,$1013.13,$850.59
+"Mar 13, 2006 00:00:00 AM",East,Stationary,Art Supplies,Michael Moore,$5.53,$0.47,$5.06
+"Mar 16, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Rhino Augustus,$8738.1,$3429.12,$5308.98
+"Mar 17, 2006 00:00:00 AM",West,Stationary,Copy Paper,Roger Terrence,$778.93,$101.07,$677.86
+"Mar 18, 2006 00:00:00 AM",East,Stationary,Computer Paper,Victor Price,$1223.16,$641.2,$581.96
+"Mar 19, 2006 00:00:00 AM",East,Stationary,Art Supplies,Pete Zachriah,$19.29,$0.18,$19.11
+"Mar 21, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Helen Magadalene,$7209.59,$2789.36,$4420.23
+"Mar 23, 2006 00:00:00 AM",Central,Grocery,Meat,Lela Donovan,$6457.26,$3017.56,$3439.7
+"Mar 23, 2006 00:00:00 AM",East,Stationary,Computer Paper,Munaf Patel,$487.0,$261.71,$225.29
+"Mar 23, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Mike Ballack,$2687.52,$808.69,$1878.83
+"Mar 25, 2006 00:00:00 AM",Central,Stationary,Art Supplies,Harold Pawlan,$14.53,$1.58,$12.95
+"Mar 29, 2006 00:00:00 AM",East,Stationary,File Labels,Paul Adams,$33.31,$24.24,$9.07
+"Mar 30, 2006 00:00:00 AM",West,Stationary,Portable Storage,Jason Gross,$707.86,$207.9,$499.96
+"Apr 01, 2006 00:00:00 AM",Central,Stationary,Computer Paper,Mike Ballack,$119.8,$69.77,$50.03
+"Apr 02, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Rhino Augustus,$417.5,$152.33,$265.17
+"Apr 03, 2006 00:00:00 AM",East,Stationary,Art Supplies,Joseph Cairn,$9.25,$2.21,$7.04
+"Apr 06, 2006 00:00:00 AM",East,Grocery,Meat,Steven Gerrard,$4654.7,$2221.74,$2432.96
+"Apr 07, 2006 00:00:00 AM",East,Furniture,Frames,Joseph Cairn,$71.49,$0.17,$71.32
+"Apr 08, 2006 00:00:00 AM",East,Stationary,Art Supplies,Augustine Paul,$183.63,$18.0,$165.63
+"Apr 09, 2006 00:00:00 AM",East,Stationary,Standard Labels,David Flashing,$573.15,$336.39,$236.76
+"Apr 12, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Hallie Redmond,$3632.14,$1252.7,$2379.44
+"Apr 17, 2006 00:00:00 AM",Central,Stationary,Computer Paper,Mary Elizabeth,$410.16,$187.47,$222.69
+"Apr 18, 2006 00:00:00 AM",Central,Stationary,File Labels,Olvera Toch,$49.96,$27.28,$22.68
+"Apr 21, 2006 00:00:00 AM",East,Stationary,Computer Paper,Neil Seth,$2748.87,$1149.33,$1599.54
+"Apr 22, 2006 00:00:00 AM",East,Stationary,Portable Storage,Venus Powell,$99.17,$4.04,$95.13
+"Apr 23, 2006 00:00:00 AM",Central,Stationary,Standard Labels,Mike Ballack,$111.41,$52.44,$58.97
+"Apr 25, 2006 00:00:00 AM",Central,Furniture,Office Chairs,Shui Tom,$1684.18,$679.04,$1005.14
+"Apr 30, 2006 00:00:00 AM",West,Stationary,Copy Paper,Paul Adams,$21.07,$12.85,$8.22
+"May 01, 2006 00:00:00 AM",East,Stationary,Computer Paper,Steve Waugh,$159.11,$31.82,$127.29
+"May 03, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Harold Pawlan,$740.48,$227.56,$512.92
+"May 04, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Hilary Holden,$3918.43,$1249.18,$2669.25
+"May 08, 2006 00:00:00 AM",East,Stationary,Computer Paper,Catherine Rose,$1143.51,$549.68,$593.83
+"May 08, 2006 00:00:00 AM",East,Stationary,Round Ring Binders,Joseph Aaron,$14.58,$4.86,$9.72
+"May 13, 2006 00:00:00 AM",East,Stationary,Binding Supplies,Wu Chang,$1067.31,$214.58,$852.73
+"May 15, 2006 00:00:00 AM",West,Stationary,Art Supplies,Jency Johnah,$140.69,$4.08,$136.61
+"May 17, 2006 00:00:00 AM",East,Grocery,Meat,Patrick O'Brill,$36.91,$17.08,$19.83
+"May 17, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Vincent Herbert,$491.09,$192.7,$298.39
+"May 18, 2006 00:00:00 AM",West,Stationary,Art Supplies,John Britto,$483.93,$83.16,$400.77
+"May 24, 2006 00:00:00 AM",East,Furniture,Clocks,Pete Zachriah,$568.19,$213.33,$354.86
+"May 31, 2006 00:00:00 AM",East,Stationary,Computer Paper,Mathew Reese,$1052.07,$392.9,$659.17
+"Jun 02, 2006 00:00:00 AM",East,Stationary,Writings Pads,Grace Kelly,$6.97,$3.07,$3.9
+"Jun 03, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Olvera Toch,$1535.33,$121.15,$1414.18
+"Jun 04, 2006 00:00:00 AM",West,Stationary,Art Supplies,Mike Ballack,$13.29,$5.88,$7.41
+"Jun 06, 2006 00:00:00 AM",West,Stationary,Colored Envelopes,Rick Reed,$35.66,$0.21,$35.45
+"Jun 08, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Sheri Gordon,$6136.45,$2280.67,$3855.78
+"Jun 09, 2006 00:00:00 AM",East,Stationary,Computer Paper,Steve Harminson,$490.29,$164.79,$325.5
+"Jun 10, 2006 00:00:00 AM",East,Furniture,Office Chairs,Peter McVee,$2163.44,$785.07,$1378.37
+"Jun 17, 2006 00:00:00 AM",East,Stationary,File Labels,Tina Thomas,$55.15,$16.64,$38.51
+"Jun 22, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Joseph Cairn,$3564.84,$1335.19,$2229.65
+"Jun 25, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Steve Harminson,$5021.86,$1513.71,$3508.15
+"Jun 25, 2006 00:00:00 AM",Central,Stationary,Standard Labels,Hilary Holden,$167.27,$64.64,$102.63
+"Jun 27, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Steven Roelle,$4873.22,$1671.37,$3201.85
+"Jun 30, 2006 00:00:00 AM",East,Stationary,File Labels,Mary Elizabeth,$362.11,$193.43,$168.68
+"Jul 02, 2006 00:00:00 AM",East,Stationary,Computer Paper,Mike Ballack,$894.07,$79.42,$814.65
+"Jul 05, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Joseph Aaron,$1218.66,$463.9,$754.76
+"Jul 05, 2006 00:00:00 AM",West,Furniture,End Tables,Olvera Toch,$8239.08,$584.34,$7654.74
+"Jul 08, 2006 00:00:00 AM",West,Stationary,Computer Paper,Steffi Graf,$831.4,$419.07,$412.33
+"Jul 09, 2006 00:00:00 AM",East,Stationary,Heavy Duty Binders,Benjamin Ross,$363.61,$44.0,$319.61
+"Jul 12, 2006 00:00:00 AM",Central,Stationary,Air Purifiers,Neil Seth,$728.38,$206.65,$521.73
+"Jul 13, 2006 00:00:00 AM",Central,Stationary,Air Purifiers,John Britto,$218.55,$4.82,$213.73
+"Jul 14, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steve Harminson,$968.57,$347.06,$621.51
+"Jul 18, 2006 00:00:00 AM",East,Furniture,Frames,Augustine Paul,$356.83,$41.1,$315.73
+"Jul 19, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Augustine Paul,$1652.16,$346.69,$1305.47
+"Jul 20, 2006 00:00:00 AM",East,Stationary,Paper Clips,Steffi Graf,$50.18,$6.3,$43.88
+"Jul 22, 2006 00:00:00 AM",West,Grocery,Cereals,Mathew Reese,$334.23,$147.09,$187.14
+"Jul 24, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Michael Angelo,$973.17,$522.43,$450.74
+"Jul 27, 2006 00:00:00 AM",East,Grocery,Meat,John Britto,$1896.28,$856.42,$1039.86
+"Jul 28, 2006 00:00:00 AM",Central,Stationary,Pencils,Neil Seth,$22.87,$8.24,$14.63
+"Jul 29, 2006 00:00:00 AM",East,Grocery,Cereals,Olvera Toch,$315.9,$120.89,$195.01
+"Jul 29, 2006 00:00:00 AM",East,Stationary,Standard Labels,Ian Fleming,$36.36,$16.37,$19.99
+"Jul 30, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Joseph Aaron,$4010.35,$1098.95,$2911.4
+"Jul 31, 2006 00:00:00 AM",West,Grocery,Meat,Paul Adams,$384.63,$72.41,$312.22
+"Aug 04, 2006 00:00:00 AM",East,Stationary,Art Supplies,Munaf Patel,$41.5,$2.35,$39.15
+"Aug 05, 2006 00:00:00 AM",Central,Stationary,Round Ring Binders,Catherine Jordan,$114.96,$30.69,$84.27
+"Aug 07, 2006 00:00:00 AM",Central,Grocery,Meat,Vincent Herbert,$1229.77,$24.31,$1205.46
+"Aug 09, 2006 00:00:00 AM",Central,Stationary,Computer Paper,Roger Terrence,$1998.11,$1109.89,$888.22
+"Aug 11, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Jim Courier,$8800.51,$2853.41,$5947.1
+"Aug 14, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Helen Magadalene,$2047.01,$674.07,$1372.94
+"Aug 16, 2006 00:00:00 AM",East,Grocery,Meat,Augustine Paul,$362.44,$0.33,$362.11
+"Aug 19, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Leena Mary,$1690.38,$645.69,$1044.69
+"Aug 23, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,John Britto,$3488.79,$2027.77,$1461.02
+"Aug 23, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Munaf Patel,$1965.44,$714.55,$1250.89
+"Aug 23, 2006 00:00:00 AM",East,Stationary,Art Supplies,Munaf Patel,$100.81,$2.75,$98.06
+"Aug 25, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Thomas Mondrake,$4093.8,$1408.27,$2685.53
+"Aug 27, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Wu Chang,$847.2,$465.81,$381.39
+"Aug 28, 2006 00:00:00 AM",East,Stationary,Art Supplies,Richard Agassi,$99.66,$3.08,$96.58
+"Aug 31, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Peter McVee,$9393.0,$4037.14,$5355.86
+"Sep 02, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Dean Jones,$1361.44,$405.88,$955.56
+"Sep 03, 2006 00:00:00 AM",East,Stationary,File Labels,Olvera Toch,$133.49,$63.67,$69.82
+"Sep 04, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Patrick O'Brill,$3842.67,$1383.98,$2458.69
+"Sep 07, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Maurice Satty,$1188.94,$243.55,$945.39
+"Sep 08, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Lance Willis,$1887.12,$222.08,$1665.04
+"Sep 10, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Lela Donovan,$1188.59,$380.95,$807.64
+"Sep 17, 2006 00:00:00 AM",East,Stationary,Art Supplies,Mary Zewe,$48.93,$8.58,$40.35
+"Sep 21, 2006 00:00:00 AM",East,Stationary,Computer Paper,Michael Moore,$1680.31,$852.71,$827.6
+"Sep 24, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Maxwell Schwartz,$5084.34,$1804.98,$3279.36
+"Sep 24, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Joseph Aaron,$1717.36,$944.8,$772.56
+"Sep 27, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Susan Juliet,$2159.2,$568.21,$1590.99
+"Sep 28, 2006 00:00:00 AM",Central,Stationary,Computer Paper,Vincent Herbert,$2048.3,$1037.83,$1010.47
+"Sep 30, 2006 00:00:00 AM",Central,Stationary,Writings Pads,Mathew Reese,$184.05,$65.96,$118.09
+"Oct 03, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Thomas Seio,$1803.74,$663.95,$1139.79
+"Oct 06, 2006 00:00:00 AM",East,Stationary,Copy Paper,Mike Ballack,$87.47,$9.99,$77.48
+"Oct 10, 2006 00:00:00 AM",East,Stationary,Paper Clips,Michael Moore,$86.33,$14.8,$71.53
+"Oct 12, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Thomas Seio,$8209.94,$3071.37,$5138.57
+"Oct 14, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Catherine Rose,$1523.22,$435.46,$1087.76
+"Oct 15, 2006 00:00:00 AM",East,Stationary,Computer Paper,Benjamin Ross,$964.11,$573.11,$391.0
+"Oct 16, 2006 00:00:00 AM",East,Grocery,Cereals,Mary Zewe,$166.64,$86.35,$80.29
+"Oct 17, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Lazar Mathew,$6589.07,$2716.58,$3872.49
+"Oct 18, 2006 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Steven Roelle,$3470.75,$1300.53,$2170.22
+"Oct 22, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Catherine Jordan,$2096.44,$1346.72,$749.72
+"Oct 23, 2006 00:00:00 AM",West,Stationary,Storage Cabinets,Rick Reed,$2939.52,$270.08,$2669.44
+"Oct 30, 2006 00:00:00 AM",West,Stationary,Computer Paper,Mathew Reese,$2330.29,$585.7,$1744.59
+"Nov 03, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Vincent Herbert,$668.82,$182.98,$485.84
+"Nov 05, 2006 00:00:00 AM",East,Stationary,Computer Paper,Immaculate Anita,$405.88,$87.65,$318.23
+"Nov 06, 2006 00:00:00 AM",East,Stationary,Copy Paper,Augustine Paul,$141.32,$10.06,$131.26
+"Nov 07, 2006 00:00:00 AM",East,Stationary,Copy Paper,David Flashing,$524.67,$179.84,$344.83
+"Nov 09, 2006 00:00:00 AM",West,Grocery,Meat,Rhino Augustus,$280.88,$38.42,$242.46
+"Nov 10, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,John Britto,$276.59,$116.37,$160.22
+"Nov 11, 2006 00:00:00 AM",East,Stationary,Round Ring Binders,Steffi Graf,$150.61,$30.69,$119.92
+"Nov 13, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Rozario Diego,$4605.69,$1570.8,$3034.89
+"Nov 15, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Pete Zachriah,$754.3,$300.48,$453.82
+"Nov 19, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Lazar Mathew,$503.82,$190.95,$312.87
+"Nov 21, 2006 00:00:00 AM",East,Furniture,Metal Bookcases,Mary Elizabeth,$3524.93,$127.86,$3397.07
+"Nov 25, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Tina Thomas,$3474.17,$1093.84,$2380.33
+"Nov 27, 2006 00:00:00 AM",East,Stationary,Computer Paper,Catherine Rose,$572.07,$238.04,$334.03
+"Nov 27, 2006 00:00:00 AM",East,Grocery,Meat,Venu Karthik,$2103.63,$876.85,$1226.78
+"Nov 30, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Stephanie Ulpright,$3757.05,$1410.87,$2346.18
+"Dec 02, 2006 00:00:00 AM",East,Stationary,Art Supplies,Michael Nathan,$64.62,$13.88,$50.74
+"Dec 02, 2006 00:00:00 AM",Central,Grocery,Spices,Shui Tom,$11751.55,$6365.29,$5386.26
+"Dec 04, 2006 00:00:00 AM",West,Stationary,Paper Clips,David Flashing,$16.38,$2.66,$13.72
+"Dec 04, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Peter Brian,$908.01,$84.46,$823.55
+"Dec 05, 2006 00:00:00 AM",West,Stationary,Computer Paper,Hilary Holden,$96.85,$30.17,$66.68
+"Dec 05, 2006 00:00:00 AM",West,Grocery,Fruits and Vegetables,Nathan Astle,$924.53,$493.02,$431.51
+"Dec 08, 2006 00:00:00 AM",East,Grocery,Fruits and Vegetables,Maxwell Schwartz,$5569.84,$2207.74,$3362.1
+"Dec 12, 2006 00:00:00 AM",East,Stationary,Air Purifiers,Barbara Fisher,$2195.88,$916.68,$1279.2
+"Dec 14, 2006 00:00:00 AM",East,Stationary,Air Purifiers,Rozario Diego,$716.12,$143.9,$572.22
+"Jan 01, 2007 00:00:00 AM",West,Grocery,Meat,Lela Donovan,$164.77,$25.5,$139.27
+"Jan 09, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Michael Nathan,$2969.55,$877.34,$2092.21
+"Jan 10, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Shui Tom,$4218.38,$1726.9,$2491.48
+"Jan 11, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Venu Karthik,$1284.86,$471.47,$813.39
+"Jan 12, 2007 00:00:00 AM",West,Stationary,Writings Pads,Harold Pawlan,$524.1,$285.19,$238.91
+"Jan 14, 2007 00:00:00 AM",West,Stationary,Computer Paper,Mary Elizabeth,$670.79,$240.31,$430.48
+"Jan 17, 2007 00:00:00 AM",East,Stationary,Round Ring Binders,Benjamin Ross,$29.19,$9.74,$19.45
+"Jan 19, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Barbara Fisher,$137.72,$47.04,$90.68
+"Jan 23, 2007 00:00:00 AM",East,Stationary,Writings Pads,Maxwell Schwartz,$84.67,$23.59,$61.08
+"Jan 25, 2007 00:00:00 AM",East,Stationary,Paper Clips,Catherine Rose,$166.13,$10.26,$155.87
+"Jan 29, 2007 00:00:00 AM",East,Stationary,Heavy Duty Binders,Maxwell Schwartz,$1306.17,$691.56,$614.61
+"Jan 30, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Ian Fleming,$762.92,$275.58,$487.34
+"Feb 02, 2007 00:00:00 AM",East,Stationary,Pencils,David Boon,$63.27,$13.25,$50.02
+"Feb 02, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Steffi Graf,$3348.45,$1419.73,$1928.72
+"Feb 03, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Nathan Astle,$788.48,$208.44,$580.04
+"Feb 04, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Hilary Holden,$3113.87,$1212.94,$1900.93
+"Feb 07, 2007 00:00:00 AM",East,Stationary,Binder Clips,Stephanie Ulpright,$19.62,$1.81,$17.81
+"Feb 10, 2007 00:00:00 AM",Central,Stationary,Art Supplies,Nathan Astle,$37.74,$7.67,$30.07
+"Feb 11, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Michael Angelo,$4642.41,$1483.56,$3158.85
+"Feb 13, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Benjamin Ross,$850.71,$259.46,$591.25
+"Feb 14, 2007 00:00:00 AM",Central,Stationary,Copy Paper,Mike Ballack,$338.52,$100.48,$238.04
+"Feb 16, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Maurice Satty,$985.34,$338.91,$646.43
+"Feb 18, 2007 00:00:00 AM",West,Furniture,Office Chairs,Joseph Aaron,$8955.34,$2723.44,$6231.9
+"Feb 21, 2007 00:00:00 AM",East,Stationary,Computer Paper,Rozario Diego,$641.92,$304.14,$337.78
+"Feb 23, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Hilary Holden,$1370.99,$441.44,$929.55
+"Feb 26, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Mary Elizabeth,$2881.19,$1096.83,$1784.36
+"Feb 27, 2007 00:00:00 AM",East,Stationary,Art Supplies,John Elliot,$81.12,$30.31,$50.81
+"Feb 28, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,David Flashing,$1006.9,$415.02,$591.88
+"Mar 03, 2007 00:00:00 AM",Central,Furniture,Office Chairs,Leena Mary,$2287.45,$1.06,$2286.39
+"Mar 06, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Joseph Airdo,$986.25,$371.58,$614.67
+"Mar 08, 2007 00:00:00 AM",West,Stationary,Scissors,Richard Agassi,$127.56,$37.16,$90.4
+"Mar 11, 2007 00:00:00 AM",East,Stationary,Binder Clips,Mathew Reese,$111.2,$17.89,$93.31
+"Mar 12, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Jim Courier,$718.86,$412.39,$306.47
+"Mar 13, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Nathan Astle,$2563.77,$950.25,$1613.52
+"Mar 13, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Catherine Jordan,$4145.68,$1617.8,$2527.88
+"Mar 18, 2007 00:00:00 AM",Central,Stationary,Paper Clips,Nathan Astle,$22.45,$6.0,$16.45
+"Mar 20, 2007 00:00:00 AM",East,Stationary,Writings Pads,Paul Adams,$345.69,$173.31,$172.38
+"Mar 22, 2007 00:00:00 AM",East,Stationary,Computer Paper,Grace Kelly,$1139.51,$656.12,$483.39
+"Mar 22, 2007 00:00:00 AM",West,Stationary,Art Supplies,Augustine Paul,$43.03,$16.92,$26.11
+"Mar 29, 2007 00:00:00 AM",West,Stationary,Art Supplies,Patrick O'Brill,$124.47,$24.55,$99.92
+"Mar 30, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Pete Zachriah,$7836.2,$3102.38,$4733.82
+"Apr 01, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Catherine Rose,$1852.11,$826.52,$1025.59
+"Apr 08, 2007 00:00:00 AM",East,Stationary,Copy Paper,Steven Gerrard,$32.72,$2.03,$30.69
+"Apr 13, 2007 00:00:00 AM",Central,Grocery,Cereals,Michael Moore,$4.08,$1.05,$3.03
+"Apr 15, 2007 00:00:00 AM",East,Stationary,Paper Clips,Hallie Redmond,$71.32,$12.68,$58.64
+"Apr 16, 2007 00:00:00 AM",East,Stationary,Round Ring Binders,Wu Chang,$144.97,$18.63,$126.34
+"Apr 16, 2007 00:00:00 AM",East,Grocery,Cereals,Olvera Toch,$513.26,$231.89,$281.37
+"Apr 19, 2007 00:00:00 AM",East,Stationary,Copy Paper,Pete Zachriah,$315.42,$20.7,$294.72
+"Apr 20, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Mathew Reese,$4794.07,$1850.13,$2943.94
+"Apr 21, 2007 00:00:00 AM",East,Stationary,Computer Paper,Leena Mary,$709.91,$389.52,$320.39
+"Apr 23, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Thomas Mondrake,$4748.69,$1725.72,$3022.97
+"May 04, 2007 00:00:00 AM",Central,Stationary,Standard Labels,Ian Fleming,$50.51,$25.53,$24.98
+"May 06, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Dean Jones,$2626.35,$886.12,$1740.23
+"May 08, 2007 00:00:00 AM",West,Grocery,Meat,Angelus Mathew,$1901.35,$807.52,$1093.83
+"May 10, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Rozario Diego,$168.87,$17.61,$151.26
+"May 11, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Andy Roddick,$6298.87,$2304.16,$3994.71
+"May 11, 2007 00:00:00 AM",West,Stationary,Computer Paper,Angelus Mathew,$201.59,$34.54,$167.05
+"May 13, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Benjamin Ross,$4036.79,$1064.73,$2972.06
+"May 15, 2007 00:00:00 AM",East,Stationary,Heavy Duty Binders,Venus Powell,$1444.41,$784.83,$659.58
+"May 15, 2007 00:00:00 AM",Central,Stationary,Standard Labels,Rhino Augustus,$47.37,$24.54,$22.83
+"May 20, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Augustine Paul,$1413.33,$450.5,$962.83
+"May 22, 2007 00:00:00 AM",West,Stationary,Binding Supplies,Lela Donovan,$274.05,$16.77,$257.28
+"May 23, 2007 00:00:00 AM",East,Stationary,Art Supplies,Neil Seth,$293.95,$87.71,$206.24
+"May 27, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Rick Reed,$411.34,$166.01,$245.33
+"May 28, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Catherine Rose,$6171.62,$2110.42,$4061.2
+"May 28, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Peter McVee,$1607.3,$590.42,$1016.88
+"May 29, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Harold Pawlan,$2843.78,$899.24,$1944.54
+"May 31, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Rhino Augustus,$4060.39,$1727.5,$2332.89
+"Jun 04, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,David Boon,$2509.8,$913.5,$1596.3
+"Jun 05, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Maxwell Schwartz,$744.37,$278.84,$465.53
+"Jun 06, 2007 00:00:00 AM",East,Stationary,Binding Supplies,Helen Magadalene,$1697.21,$479.02,$1218.19
+"Jun 07, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Joseph Cairn,$6052.79,$2375.32,$3677.47
+"Jun 08, 2007 00:00:00 AM",East,Stationary,Scissors,Munaf Patel,$692.69,$137.37,$555.32
+"Jun 10, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Richard Agassi,$1964.73,$789.11,$1175.62
+"Jun 12, 2007 00:00:00 AM",West,Stationary,Art Supplies,Carl Lewis,$99.39,$5.11,$94.28
+"Jun 15, 2007 00:00:00 AM",Central,Stationary,Colored Envelopes,Rozario Diego,$105.98,$28.08,$77.9
+"Jun 18, 2007 00:00:00 AM",East,Stationary,File Labels,Olvera Toch,$208.53,$86.3,$122.23
+"Jun 18, 2007 00:00:00 AM",West,Stationary,Binder Clips,Joseph Cairn,$26.11,$7.89,$18.22
+"Jun 20, 2007 00:00:00 AM",West,Stationary,Art Supplies,Dean Jones,$153.39,$9.2,$144.19
+"Jun 23, 2007 00:00:00 AM",Central,Grocery,Meat,Dean Jones,$901.09,$126.85,$774.24
+"Jun 24, 2007 00:00:00 AM",Central,Stationary,Standard Labels,Andy Flower,$143.0,$80.72,$62.28
+"Jun 26, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Michael Moore,$497.91,$190.57,$307.34
+"Jun 26, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Carl Lewis,$5560.56,$2079.55,$3481.01
+"Jun 27, 2007 00:00:00 AM",Central,Stationary,Art Supplies,Mathew Reese,$70.68,$4.63,$66.05
+"Jul 05, 2007 00:00:00 AM",Central,Grocery,Meat,Joseph Cairn,$93.24,$9.14,$84.1
+"Jul 08, 2007 00:00:00 AM",West,Stationary,File Labels,Rhino Augustus,$67.45,$29.5,$37.95
+"Jul 10, 2007 00:00:00 AM",East,Stationary,Art Supplies,Dean Jones,$26.36,$1.08,$25.28
+"Jul 17, 2007 00:00:00 AM",West,Stationary,Art Supplies,Sheri Gordon,$103.2,$26.45,$76.75
+"Jul 18, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Steffi Graf,$3992.47,$1348.95,$2643.52
+"Jul 20, 2007 00:00:00 AM",East,Stationary,Binder Clips,Thomas Mondrake,$125.21,$43.23,$81.98
+"Jul 20, 2007 00:00:00 AM",East,Stationary,Air Purifiers,Andy Roddick,$21.45,$7.2,$14.25
+"Jul 24, 2007 00:00:00 AM",Central,Stationary,Copy Paper,Rozario Diego,$75.81,$24.55,$51.26
+"Jul 24, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Joseph Airdo,$1377.92,$540.63,$837.29
+"Jul 25, 2007 00:00:00 AM",East,Stationary,Standard Labels,Susan Juliet,$32.03,$13.71,$18.32
+"Jul 26, 2007 00:00:00 AM",Central,Stationary,Computer Paper,Neil Seth,$2194.63,$994.4,$1200.23
+"Jul 28, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Michael Angelo,$5531.4,$2306.51,$3224.89
+"Jul 28, 2007 00:00:00 AM",East,Grocery,Meat,Andy Roddick,$973.73,$232.57,$741.16
+"Jul 30, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Shui Tom,$5196.06,$1913.74,$3282.32
+"Jul 30, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Mike Ballack,$3255.08,$1271.0,$1984.08
+"Aug 04, 2007 00:00:00 AM",West,Grocery,Fruits and Vegetables,Hilary Holden,$2788.74,$889.98,$1898.76
+"Aug 04, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Rozario Diego,$432.97,$131.03,$301.94
+"Aug 05, 2007 00:00:00 AM",West,Stationary,Air Purifiers,Steffi Graf,$594.19,$156.61,$437.58
+"Aug 11, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,Immaculate Anita,$4015.3,$1460.22,$2555.08
+"Aug 15, 2007 00:00:00 AM",West,Stationary,File Labels,Joseph Aaron,$101.25,$48.4,$52.85
+"Aug 17, 2007 00:00:00 AM",East,Stationary,Art Supplies,Susan Juliet,$51.08,$3.44,$47.64
+"Aug 18, 2007 00:00:00 AM",East,Stationary,Binding Supplies,Michael Nathan,$390.83,$113.72,$277.11
+"Aug 18, 2007 00:00:00 AM",Central,Grocery,Meat,Joseph Cairn,$984.24,$464.31,$519.93
+"Aug 21, 2007 00:00:00 AM",East,Furniture,Office Chairs,Mary Zewe,$10498.72,$3089.96,$7408.76
+"Aug 21, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Lela Donovan,$723.28,$253.57,$469.71
+"Aug 22, 2007 00:00:00 AM",East,Grocery,Fruits and Vegetables,David Love,$2464.68,$1054.72,$1409.96
+"Aug 22, 2007 00:00:00 AM",East,Furniture,Meeting Room Tables,Victor Price,$224.5,$40.6,$183.9
+"Aug 23, 2007 00:00:00 AM",East,Stationary,Round Ring Binders,David Flashing,$1190.8,$648.22,$542.58
+"Aug 24, 2007 00:00:00 AM",East,Stationary,Copy Paper,Mary Elizabeth,$21.44,$13.38,$8.06
+"Aug 25, 2007 00:00:00 AM",Central,Stationary,Standard Labels,Maxwell Schwartz,$157.34,$73.64,$83.7
+"Aug 25, 2007 00:00:00 AM",East,Stationary,Binding Supplies,Roger Terrence,$341.71,$59.83,$281.88
+"Aug 29, 2007 00:00:00 AM",Central,Grocery,Fruits and Vegetables,Neil Seth,$3316.16,$1298.73,$2017.43
